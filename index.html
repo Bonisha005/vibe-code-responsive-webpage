@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Responsive Webpage - Drive Assets</title>
+    <link rel="stylesheet" href="styles.css"/>
+    <script defer src="script.js"></script>
+</head>
+
+<body>
+
+    <!-- Loader -->
+    <div id="loader">
+        <video src="assets/videos/loader.mp4" autoplay muted loop></video>
+    </div>
+
+    <!-- Navbar -->
+    <header>
+        <nav>
+            <div class="logo">My Website</div>
+            <ul class="nav-links">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li>
+                    <button id="theme-toggle">Light/Dark</button>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero" class="section section-card">
+        <h1>Welcome to My Responsive Webpage</h1>
+        <p>Using Provided Drive Assets</p>
+        <video controls src="assets/videos/homepage.mp4" class="hero-video"></video>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="section section-card">
+        <h2>Features</h2>
+        <div class="features-grid">
+            <div class="feature-item">
+                <img src="assets/images/cards.png" alt="Cards"/>
+                <p>Feature: Cards</p>
+            </div>
+            <div class="feature-item">
+                <video controls src="assets/videos/features-services.mp4"></video>
+                <p>Feature: Services</p>
+            </div>
+            <div class="feature-item">
+                <video controls src="assets/videos/scroll and pop up.mp4"></video>
+                <p>Feature: Scroll & Pop Up</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="section section-card">
+        <h2>Gallery</h2>
+        <div class="gallery-grid">
+            <img src="assets/images/stats.png" alt="Stats"/>
+            <img src="assets/images/graph.png" alt="Graph"/>
+            <video controls src="assets/videos/caraousel switch.mp4"></video>
+            <video controls src="assets/videos/parallax animation.mp4"></video>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section section-card">
+        <h2>About</h2>
+        <p>This webpage is built with provided Drive assets and responsive design.</p>
+        <video controls src="assets/videos/testimonials.mp4"></video>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section section-card">
+        <h2>Contact</h2>
+        <p>Email: sivanicsdmvgr00@gmail.com</p>
+        <p>Phone: +91-8125629342</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Bonisha rights reserved.</p>
+    </footer>
+
+</body>
+</html>
