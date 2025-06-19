@@ -26,8 +26,8 @@ git clone https://github.com/Bonisha005/vibe-code-responsive-webpage.git
 (No server needed — works as static site)
 
 🌍 Live URL
-https://your-live-url.netlify.app
-(Replace with your actual Netlify / GitHub Pages URL)
+https://bonisha005.github.io/vibe-code-responsive-webpage/
+(Replace with your actual GitHub Pages URL)
 
 🤖 AI Tools Used
 ✅ ChatGPT-4o (OpenAI) — for generating CSS styles, HTML structure, responsive layout
