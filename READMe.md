@@ -1,25 +1,51 @@
-# Responsive Webpage - Drive Assets
+# vibe-code-responsive-webpage
+Responsive Webpage - Drive Assets 🌐
+This is a responsive webpage created for the Vibe Coding Competition - June 19, 2025.
 
-## Live URL
-_(Add your Netlify/Vercel URL here)_
+The webpage is built using the provided Drive resources (images, videos) and includes all mandatory features.
 
-## GitHub Repo
-_(Add your public repo URL here)_
+🚀 Features Implemented
+✅ Responsive layout (mobile, tablet, desktop)
+✅ Light/Dark Mode toggle
+✅ Loader (provided from Drive assets)
+✅ Fixed Navbar with section links
+✅ Sections: Home, Features, Gallery, About, Contact
+✅ More than 6 features used from provided resources
+✅ Deployed live URL (no special setup needed)
+✅ Clear README file provided
+✅ AI tools usage mentioned
 
-## Features
-✅ Responsive Design  
-✅ Light/Dark Mode  
-✅ Loader (from provided Drive)  
-✅ Hero Section  
-✅ Features Section (6+ features)  
-✅ Gallery  
-✅ About Section  
-✅ Contact Section  
-✅ Navbar with Links  
+📂 How to Run Locally
+1️⃣ Clone this repo:
 
-## How to Run Locally
+bash
+Copy
+Edit
+git clone https://github.com/Bonisha005/vibe-code-responsive-webpage.git
+2️⃣ Open index.html in your browser.
+(No server needed — works as static site)
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/Bonisha005.git
-cd my-responsive website
+🌍 Live URL
+https://your-live-url.netlify.app
+(Replace with your actual Netlify / GitHub Pages URL)
+
+🤖 AI Tools Used
+✅ ChatGPT-4o (OpenAI) — for generating CSS styles, HTML structure, responsive layout
+✅ Visual Studio Code — for code editing
+✅ Google Drive assets — images & videos provided
+
+👩‍💻 Author
+Bonisha Sivani
+Email: sivanicsdmvgr00@gmail.com
+Phone: +91-8125629342
+
+📝 Final Submission Notes
+✅ All required features implemented
+✅ Final commit before 6:00 PM IST, June 19, 2025
+✅ No commits after 6:00 PM IST
+✅ Public GitHub repo provided
+✅ Live URL provided
+✅ README provided
+
+📄 License
+MIT License
